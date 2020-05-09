@@ -111,6 +111,7 @@ namespace InvestmentManager
             });
         }
 
+        #region HealthCheck Response Writers
         private Task WriteHealthCheckReadyResponse(HttpContext httpContext, HealthReport result)
         {
             httpContext.Response.ContentType = "application/json";
@@ -135,6 +136,6 @@ namespace InvestmentManager
 
             return httpContext.Response.WriteAsync(json.ToString(Formatting.Indented));
         }
-       
+        #endregion
     }
 }
