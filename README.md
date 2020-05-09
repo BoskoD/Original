@@ -1,4 +1,4 @@
-## Investment manager appliciation, resource for Health Check Implementation
+## Investment manager appliciation, resource for Health Check implementation
 
 ### Source pluralsight 
 - Use bacpac_files to import db
