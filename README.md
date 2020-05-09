@@ -1,4 +1,4 @@
-# Investment manager applciation, resource for Health Check Implementation
+# Investment manager appliciation, resource for Health Check Implementation
 
 Source pluralsight
 
