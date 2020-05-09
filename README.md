@@ -3,6 +3,7 @@
 ### Source pluralsight 
 - Use bacpac_files to import db
 - Connect server in appsettings
+- Choose your ports
 - Start app through bach files, or choose multiple startup files
 
 
