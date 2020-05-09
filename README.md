@@ -6,4 +6,9 @@
 - Choose your ports
 - Start app through bach_files, or choose multiple startup in vs
 
+## Nuget Packages
+- AspNetCore.HealthChecks.SqlServer
+- AspNetCore.HealthChecks.Uris
+
+
 
